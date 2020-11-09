@@ -25,6 +25,10 @@ Saya buat open-source agar dapat membantu sekolah sekolah agar dapat melaksanaka
 - Student, lesson & teacher data management
 - And manymore!
 
+### 🏠 <a href="#">USERNAME-PASSWORD</a>
+Student -> admin@admin.com, Admin@123
+Admin -> admin1@gmail.com, Admin@123
+
 ### 🏠 <a href="#">Homepage</a>
 **Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
 
